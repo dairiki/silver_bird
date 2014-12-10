@@ -1,6 +1,6 @@
 {
-    "name": "Silver Bird",
-    "version": "1.9.10.2",
+    "name": "Silver Bird (dairiki)",
+    "version": "1.9.10.3",
     "manifest_version": 2,
     "description": "__MSG_extDescription__",
     "default_locale": "en",
@@ -48,6 +48,5 @@
             ]
         }
     ],
-    "options_page": "options.html",
-    "update_url": "http://clients2.google.com/service/update2/crx"
+    "options_page": "options.html"
 }
